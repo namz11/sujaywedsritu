@@ -1,3 +1,5 @@
-# Sujay Weds Ritu
+# Wedding Website
 
-Link to website -
+This is a template for any wedding website.
+
+Link to website - https://namz11.github.io/sujaywedsritu/
